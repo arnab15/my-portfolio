@@ -1,0 +1,14 @@
+.social-links {
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+
+  cursor: pointer;
+  margin: 10px;
+  box-shadow: 0 37.8px 10px rgba(0, 0, 0, 0.074),
+    0 53px 80px rgba(0, 0, 0, 0.09);
+}
+.social-links:hover {
+  box-shadow: 0 37.8px 10px rgba(0, 0, 0, 0.074);
+  opacity: 0.75;
+}

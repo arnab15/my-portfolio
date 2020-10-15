@@ -1,0 +1,19 @@
+.skill-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 200px;
+  overflow: hidden;
+  box-sizing: border-box;
+  border-radius: 15px;
+  margin: 20px auto;
+  box-shadow: 0 38px 80px rgba(0, 0, 0, 0.2);
+}
+.skill-card:hover {
+  box-shadow: 0 15.1px 5.3px rgba(0, 0, 0, 0.066),
+    0 22.4px 17.9px rgba(0, 0, 0, 0.093),
+    0 38px 80px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}

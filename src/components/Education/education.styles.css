@@ -1,0 +1,21 @@
+.education-img-section {
+  height: 300px;
+  width: 300px;
+}
+.formal-edu {
+  margin: 30px auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  border-radius: 25px;
+  box-shadow: 0 9.4px 5.3px rgba(0, 0, 0, 0.073),
+    0 31.2px 17.9px rgba(0, 0, 0, 0.107),
+    0 65px 80px rgba(0, 0, 0, 0.18);
+}
+.formal-edu li {
+  list-style: none;
+}

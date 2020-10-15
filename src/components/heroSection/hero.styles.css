@@ -1,0 +1,32 @@
+.hero-container {
+  background-color: #48466d;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90vh;
+  width: 100%;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  clip-path: circle(180vh at 60% -80vh);
+}
+.coder-img {
+  width: 200px;
+
+  height: 300px;
+  margin-top: 50px;
+}
+.hero-text {
+  color: azure;
+  font-size: x-large;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.social {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  background-color: cadetblue;
+  margin: 20px;
+}

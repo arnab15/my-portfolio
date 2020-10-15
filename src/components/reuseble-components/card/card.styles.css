@@ -1,0 +1,31 @@
+.reusable-card {
+  width: 20rem;
+  height: 400px;
+  margin: 20px auto;
+  border: none;
+  box-shadow: 0 6.7px 5.3px rgba(0, 0, 0, 0.066),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.093),
+    0 100px 80px rgba(0, 0, 0, 0.1);
+}
+.reusable-card:hover {
+  box-shadow: 0 15.1px 5.3px rgba(0, 0, 0, 0.066),
+    0 22.4px 17.9px rgba(0, 0, 0, 0.093),
+    0 38px 80px rgba(0, 0, 0, 0.1);
+  height: fit-content;
+}
+.card-text {
+  visibility: hidden;
+}
+.reusable-card:hover .card-text {
+  visibility: visible;
+}
+.card-image {
+  height: 35px;
+  width: 35px;
+  visibility: hidden;
+  color: aqua;
+}
+
+.reusable-card:hover .card-image {
+  visibility: visible;
+}
