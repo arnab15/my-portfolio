@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc3d00ac89a4393e0013bb920cd31259",
+    "revision": "f0b4a47fc8cce5a9b3780c414deb279c",
     "url": "/my-portfolio/index.html"
   },
   {
-    "revision": "8b8af2ba5ea70b1c1d7f",
-    "url": "/my-portfolio/static/css/2.2a4cc010.chunk.css"
+    "revision": "43e62e0e3a29dd964b48",
+    "url": "/my-portfolio/static/css/2.43e9cf6f.chunk.css"
   },
   {
-    "revision": "75faed8951e968ec7589",
-    "url": "/my-portfolio/static/css/main.d01c64e9.chunk.css"
+    "revision": "f92a90f299e638620a5f",
+    "url": "/my-portfolio/static/css/main.45d49e34.chunk.css"
   },
   {
-    "revision": "8b8af2ba5ea70b1c1d7f",
-    "url": "/my-portfolio/static/js/2.e385b0e0.chunk.js"
+    "revision": "43e62e0e3a29dd964b48",
+    "url": "/my-portfolio/static/js/2.f097ee3b.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/my-portfolio/static/js/2.e385b0e0.chunk.js.LICENSE.txt"
+    "revision": "9b318b6fb13190fe82c0677e9264b3c7",
+    "url": "/my-portfolio/static/js/2.f097ee3b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "75faed8951e968ec7589",
-    "url": "/my-portfolio/static/js/main.9c25108c.chunk.js"
+    "revision": "f92a90f299e638620a5f",
+    "url": "/my-portfolio/static/js/main.482d602a.chunk.js"
   },
   {
     "revision": "d7aefb2c0940c3e681b1",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0fb30b49da79da6979871081a23bfd53",
     "url": "/my-portfolio/static/media/expressjs.0fb30b49.svg"
+  },
+  {
+    "revision": "0d3a805dfe9a4c41a853a440873e5562",
+    "url": "/my-portfolio/static/media/gallery .0d3a805d.png"
   },
   {
     "revision": "7c791d1b1e98ac59f06f7248bd7637a3",
@@ -88,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-portfolio/static/media/skills.0ec28acf.svg"
   },
   {
-    "revision": "0afc2237b39a7715b12d0825b052f2f1",
-    "url": "/my-portfolio/static/media/street-food.0afc2237.svg"
+    "revision": "b9c8ddaa9fe93f77816687367e7771d2",
+    "url": "/my-portfolio/static/media/street-food.b9c8ddaa.svg"
   },
   {
     "revision": "56d688644f33930069194d7c5fe3797e",
@@ -98,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "37caa6621fbf99d618c438b5a3c3ca5e",
     "url": "/my-portfolio/static/media/twitter.37caa662.svg"
+  },
+  {
+    "revision": "b7da469d542c62513950884a59b33a61",
+    "url": "/my-portfolio/static/media/uhms.b7da469d.png"
   },
   {
     "revision": "d2dda26b5e4e91df27c6ae57ad094503",
